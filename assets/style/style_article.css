@@ -1,0 +1,73 @@
+h1 {
+  text-align: center;
+  font-size: 3em;
+}
+
+h2 {
+  color: #468aa2;
+  text-align: center;
+  font-size: 2em;
+  margin-top: 3em;
+}
+
+h3 {
+  color: #86b871;
+  font-size: 1.5em;
+}
+
+#a {
+  text-decoration: none;
+  color: white;
+  font-size: 1.5em;
+}
+
+#img {
+  width: 50%;
+  text-align: center;
+  margin: auto;
+  display: flex;
+}
+
+body {
+  background-image: linear-gradient(to right, #212529, #517873);
+}
+
+div {
+  color: white;
+}
+
+#pp {
+  text-align: center;
+}
+
+#I,
+#II,
+#III,
+#IV,
+#V,
+#VI,
+#VII,
+#VIII,
+#IX {
+  font-size: 2em;
+}
+
+.couleur-text {
+  color: white;
+  background-color: #212529;
+  box-shadow: 0px 10px 10px black;
+}
+
+.note {
+  text-align: center;
+}
+
+#ul,
+#li {
+  list-style-type: none;
+}
+
+#h2 {
+  color: white;
+  text-align: center;
+}
